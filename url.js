@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfJmnGp7sSsn1kb_6KdDcydBomqWwM8IsrvcpVt6VBsZ5o97Q/closedform',
+	'https://www.youtube.com/watch?v=MYPVQccHhAQ',
+	'https://public.tableau.com/app/learn/how-to-videos',
 ];
