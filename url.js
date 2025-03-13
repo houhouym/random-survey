@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfrZuCOSWYo4FMoNbITHBQIErwqNynSJGe7gz1uucdhqIGsXw/closedform',
+	'https://annotate.survey.sinica.edu.tw/user/login/',
+	'https://learngerman.dw.com/de/nicos-weg/c-36519687',
 ];
