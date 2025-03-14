@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSfJmnGp7sSsn1kb_6KdDcydBomqWwM8IsrvcpVt6VBsZ5o97Q/closedform',
-	'https://www.youtube.com/watch?v=MYPVQccHhAQ',
-	'https://public.tableau.com/app/learn/how-to-videos',
+	'https://forms.gle/gEnjcwPJQjtWXG1G8',
+	'https://forms.gle/ViYyitzZ1hsn26MY9',
+	'https://forms.gle/Pcqq3qQpjztx5djD9',
+	'https://forms.gle/cDV5t77xBzFvJWRk7',
 ];
