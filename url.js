@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://www.tandfonline.com/toc/rina20/current',
-	'https://docs.google.com/forms/d/e/1FAIpQLSfJmnGp7sSsn1kb_6KdDcydBomqWwM8IsrvcpVt6VBsZ5o97Q/closedform',
-	'https://www.youtube.com/watch?v=MYPVQccHhAQ',
+	'',
+	'',
 ];
