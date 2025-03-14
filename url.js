@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSfrZuCOSWYo4FMoNbITHBQIErwqNynSJGe7gz1uucdhqIGsXw/closedform',
-	'https://annotate.survey.sinica.edu.tw/user/login/',
-	'https://learngerman.dw.com/de/nicos-weg/c-36519687',
+	'https://forms.gle/gEnjcwPJQjtWXG1G8',
+	'https://forms.gle/ViYyitzZ1hsn26MY9',
+	'https://forms.gle/Pcqq3qQpjztx5djD9',
+	'https://forms.gle/cDV5t77xBzFvJWRk7',
 ];
